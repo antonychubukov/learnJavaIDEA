@@ -1,0 +1,4 @@
+package anton;
+
+class MethodsThatReturnValues{
+}
